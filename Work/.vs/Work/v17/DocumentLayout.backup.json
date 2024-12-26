@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Route-C43-G01\\RouteOOP03\\Work\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8FCB1B-E985-41C9-9B12-3B7078FAF008}|Work\\Work.csproj|d:\\route-c43-g01\\routeoop03\\work\\work\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8FCB1B-E985-41C9-9B12-3B7078FAF008}|Work\\Work.csproj|solutionrelative:work\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8FCB1B-E985-41C9-9B12-3B7078FAF008}|Work\\Work.csproj|d:\\route-c43-g01\\routeoop03\\work\\work\\interfaces\\irectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8FCB1B-E985-41C9-9B12-3B7078FAF008}|Work\\Work.csproj|solutionrelative:work\\interfaces\\irectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRectangle.cs",
+              "DocumentMoniker": "D:\\Route-C43-G01\\RouteOOP03\\Work\\Work\\Interfaces\\IRectangle.cs",
+              "RelativeDocumentMoniker": "Work\\Interfaces\\IRectangle.cs",
+              "ToolTip": "D:\\Route-C43-G01\\RouteOOP03\\Work\\Work\\Interfaces\\IRectangle.cs",
+              "RelativeToolTip": "Work\\Interfaces\\IRectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T16:30:18.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Route-C43-G01\\RouteOOP03\\Work\\Work\\Program.cs",
+              "RelativeDocumentMoniker": "Work\\Program.cs",
+              "ToolTip": "D:\\Route-C43-G01\\RouteOOP03\\Work\\Work\\Program.cs",
+              "RelativeToolTip": "Work\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAC8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T16:06:24.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
